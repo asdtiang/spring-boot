@@ -76,9 +76,9 @@ Phillip Webb; Dave Syer; Josh Long; Stéphane Nicoll; Rob Winch; Andy Wilkinson;
 :junit5-documentation: https://junit.org/junit5/docs/current/user-guide
 // ======================================================================================
 
-include::documentation-overview.adoc[]
-include::getting-started.adoc[]
-include::using-spring-boot.adoc[]
+include::文档概述.adoc[]
+include::开始入门.adoc[]
+include::使用spring-boot.adoc[]
 include::spring-boot-features.adoc[]
 include::production-ready-features.adoc[]
 include::deployment.adoc[]
